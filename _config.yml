@@ -1,0 +1,55 @@
+title: "Carlos Gonzalez-Regalado"
+description: "Economist, lecturer, and policy researcher. Universidad UTE, Quito."
+author: "Carlos Gonzalez-Regalado"
+email: "calgonzalezz@gmail.com"
+url: "https://calgonzalezz.github.io"
+baseurl: ""
+locale: "en-US"
+
+# Author profile (sidebar)
+author_profile:
+  name: "Carlos Gonzalez-Regalado"
+  role: "Lecturer · UTE"
+  location: "Quito, Ecuador"
+  avatar: "/assets/images/profile.jpg"
+  links:
+    - label: "Email"
+      url: "mailto:calgonzalezz@gmail.com"
+    - label: "LinkedIn"
+      url: "https://www.linkedin.com/in/carlos-gonzalez-regaladob/"
+    - label: "GitHub"
+      url: "https://github.com/calgonzalezz"
+    - label: "Google Scholar"
+      url: "#"
+    - label: "ORCID"
+      url: "#"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+paginate: 5
+paginate_path: "/page:num/"
+
+include:
+  - _pages
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+      author_profile: true
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap

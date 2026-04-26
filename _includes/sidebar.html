@@ -1,0 +1,14 @@
+<aside class="sidebar">
+  {% assign profile = site.author_profile %}
+  {% if profile.avatar %}
+    <img src="{{ profile.avatar | relative_url }}" alt="{{ profile.name }}" class="sidebar__avatar">
+  {% endif %}
+  <div class="sidebar__name">{{ profile.name }}</div>
+  <div class="sidebar__role">{{ profile.role }}<br>{{ profile.location }}</div>
+
+  <ul class="sidebar__links">
+    {% for link in profile.links %}
+      <li><a href="{{ link.url }}">{{ link.label }}</a></li>
+    {% endfor %}
+  </ul>
+</aside>
