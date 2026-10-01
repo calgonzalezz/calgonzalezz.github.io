@@ -10,6 +10,9 @@ description: "Carlos Gonzalez-Regalado — Curriculum Vitae"
 
 ## Current position
 
+**Director, Economics Program**
+Universidad UTE — Quito, Ecuador
+
 **Full-time Lecturer (Profesor Ocasional), Economics Program**
 Universidad UTE — Quito, Ecuador · *August 2024 – present*
 
@@ -33,16 +36,9 @@ Pontificia Universidad Católica del Ecuador (PUCE), Quito · *2011*
 
 ### Working papers
 
-- Gonzalez, C. (2023). *Measuring market regulation in the OECD countries: A cross-country analysis.* PhD thesis chapter. [[PDF]](/files/regulatory_regimes.pdf)
-- Gonzalez, C., Brousseau, E., & Cebreros, D. (2022). *Impact of regulatory governance regimes on renewable energies: An empirical analysis of European National Regulatory Agencies from 2013 to 2018.* Governance and Regulation Chair WP. [[PDF]](/files/independence_renewables.pdf)
-- Gonzalez, C., & Brousseau, E. (2021). *Comparative analysis of regulatory governance regimes in the OECD.* Governance and Regulation Chair WP. Cited in [OECD Regulatory Policy Outlook 2021](https://www.oecd.org/publications/oecd-regulatory-policy-outlook-2021-38b0fdb1-en.htm). [[PDF]](/files/gonzalez_brousseau_2023.pdf)
-
-### Work in progress
-
-- **[Working title]** (with [co-author]). *Brief description of the question and method.*
-- **[Working title]** (solo-authored). *Brief description.*
-
-*Drafts available upon request.*
+- Gonzalez-Regalado, C. (2023). *Measuring market regulation in the OECD countries: A cross-country analysis.* PhD thesis chapter. [[PDF]](https://www.dropbox.com/s/t86cl083n02idc0/221017_Regulatory_regimes_2.pdf?dl=0)
+- Gonzalez-Regalado, C., Brousseau, E., & Cebreros, D. (2022). *Impact of regulatory governance regimes on renewable energies: An empirical analysis of European National Regulatory Agencies from 2013 to 2018.* Governance and Regulation Chair WP. [[PDF]](https://www.dropbox.com/s/fg4i5tauajauyr7/2022-06-20_IndependenceandRenewables%20_update.pdf?dl=0)
+- Gonzalez-Regalado, C., & Brousseau, E. (2021). *Comparative analysis of regulatory governance regimes in the OECD.* Governance and Regulation Chair WP. Cited in [OECD Regulatory Policy Outlook 2021](https://www.oecd.org/publications/oecd-regulatory-policy-outlook-2021-38b0fdb1-en.htm). [[PDF]](https://www.dropbox.com/s/kijy8naaas7hncv/Gonzalez_Brousseau_2023.pdf?dl=0)
 
 ### Conference presentations
 
@@ -54,7 +50,7 @@ Pontificia Universidad Católica del Ecuador (PUCE), Quito · *2011*
 
 ## Teaching
 
-All courses taught as Lead Instructor (*Profesor Titular*) at Universidad UTE, Quito.
+All courses taught as Lead Instructor at Universidad UTE, Quito.
 
 ### Undergraduate
 
@@ -72,7 +68,7 @@ All courses taught as Lead Instructor (*Profesor Titular*) at Universidad UTE, Q
 |--------|---------|------------------|
 | International Economics | MBA | Spring 2025 |
 
-I am also responsible for academic coordination and program management within the Economics directorate.
+As Director of the Economics Program, I am also responsible for academic coordination and program management.
 
 *Syllabi and teaching materials available upon request.*
 

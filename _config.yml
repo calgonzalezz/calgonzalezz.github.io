@@ -1,5 +1,5 @@
 title: "Carlos Gonzalez-Regalado"
-description: "Economist, lecturer, and policy researcher. Universidad UTE, Quito."
+description: "Economist and policy researcher. Director of the Economics Program, Universidad UTE, Quito."
 author: "Carlos Gonzalez-Regalado"
 email: "calgonzalezz@gmail.com"
 url: "https://calgonzalezz.github.io"
@@ -9,7 +9,7 @@ locale: "en-US"
 # Author profile (sidebar)
 author_profile:
   name: "Carlos Gonzalez-Regalado"
-  role: "Lecturer · UTE"
+  role: "Director of Economics · UTE"
   location: "Quito, Ecuador"
   avatar: "/assets/images/profile.jpg"
   links:
@@ -19,10 +19,6 @@ author_profile:
       url: "https://www.linkedin.com/in/carlos-gonzalez-regaladob/"
     - label: "GitHub"
       url: "https://github.com/calgonzalezz"
-    - label: "Google Scholar"
-      url: "#"
-    - label: "ORCID"
-      url: "#"
 
 # Build settings
 markdown: kramdown
