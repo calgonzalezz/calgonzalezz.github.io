@@ -1,17 +1,22 @@
 ---
 layout: page
 permalink: /podcasts/
-published: false  # set to true once real episodes are listed below
 title: "Podcasts"
 author_profile: false
-description: "Podcast appearances on economics and regulatory policy."
+description: "El Pibcast, a podcast by UTE con Voz, Universidad UTE."
 ---
 
-Conversations about economic regulation, policy evaluation, and the Ecuadorian and Latin American economy.
+## El Pibcast · UTE con Voz
 
-| Date | Show | Episode | Link |
-|------|------|---------|------|
-| [YYYY-MM] | [Podcast name] | *[Episode title]* | [🎧 Listen]([url]) |
-| [YYYY-MM] | [Podcast name] | *[Episode title]* | [🎧 Listen]([url]) |
+*El Pibcast* is a Spanish-language podcast produced by **UTE con Voz**, the online radio and podcast channel of Universidad UTE (Quito, Ecuador).
+
+<div class="podcast-embed">
+  <iframe title="El Pibcast on Spotify"
+          src="https://open.spotify.com/embed/show/5m4IisCA1PnHwW5w8VA735"
+          width="100%" height="352" frameborder="0" loading="lazy"
+          allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+</div>
+
+[🎧 Listen to all episodes on Spotify](https://open.spotify.com/show/5m4IisCA1PnHwW5w8VA735)
 
 *If you would like to invite me to your podcast, please [get in touch](mailto:calgonzalezz@gmail.com).*

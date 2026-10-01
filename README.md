@@ -47,7 +47,7 @@ Site will be available at http://localhost:4000.
 - **CV** → `_pages/cv.md`
 - **Publications** → `_pages/publications.md`
 - **Talks** → `_pages/talks.md`
-- **Podcasts** → `_pages/podcasts.md` (unpublished until episodes are added: set `published: true` and re-add it to `_data/navigation.yml`)
+- **Podcasts** → `_pages/podcasts.md` (Spotify show embed; new episodes appear automatically)
 - **Author info & links** → `_config.yml` under `author_profile`
 - **Menu items** → `_data/navigation.yml`
 - **Colors / typography** → `assets/css/main.scss` (CSS variables at top)

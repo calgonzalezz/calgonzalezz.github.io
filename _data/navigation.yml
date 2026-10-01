@@ -7,3 +7,5 @@ main:
     url: "/publications/"
   - title: "Talks"
     url: "/talks/"
+  - title: "Podcasts"
+    url: "/podcasts/"
