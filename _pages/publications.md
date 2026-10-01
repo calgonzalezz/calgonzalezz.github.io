@@ -9,29 +9,22 @@ description: "Working papers and ongoing research."
 ## Working papers
 
 ### Measuring market regulation in the OECD countries: A cross-country analysis
-*Gonzalez, C. (2023). PhD thesis chapter.*
+*Gonzalez-Regalado, C. (2023). PhD thesis chapter.*
 
 Applies natural language processing algorithms to OECD Product Market Regulation surveys to quantify regulatory regimes across 24 countries along three dimensions: state ownership, network access, and product-characteristics control.
 
-[[PDF]](/files/regulatory_regimes.pdf)
+[[PDF]](https://www.dropbox.com/s/t86cl083n02idc0/221017_Regulatory_regimes_2.pdf?dl=0)
 
 ### Impact of regulatory governance regimes on renewable energies
-*Gonzalez, C., Brousseau, E., & Cebreros, D. (2022). Governance and Regulation Chair Working Paper.*
+*Gonzalez-Regalado, C., Brousseau, E., & Cebreros, D. (2022). Governance and Regulation Chair Working Paper.*
 
 Empirical analysis of European National Regulatory Agencies (2013–2018) suggesting that regulatory independence can conflict with the integration of renewable energies under the current market paradigm.
 
-[[PDF]](/files/independence_renewables.pdf)
+[[PDF]](https://www.dropbox.com/s/fg4i5tauajauyr7/2022-06-20_IndependenceandRenewables%20_update.pdf?dl=0)
 
 ### Comparative analysis of regulatory governance regimes in the OECD
-*Gonzalez, C., & Brousseau, E. (2021). Governance and Regulation Chair Working Paper.*
+*Gonzalez-Regalado, C., & Brousseau, E. (2021). Governance and Regulation Chair Working Paper.*
 
 Text-analysis method to measure the implementation of the Independent Regulatory Agency model across 24 OECD countries between 2013 and 2018. Cited in the [OECD Regulatory Policy Outlook 2021](https://www.oecd.org/publications/oecd-regulatory-policy-outlook-2021-38b0fdb1-en.htm).
 
-[[PDF]](/files/gonzalez_brousseau_2023.pdf)
-
-## Work in progress
-
-- **[Working title]** (with [co-author]). *Brief description of the question and method.*
-- **[Working title]** (solo-authored). *Brief description.*
-
-*Drafts available upon request.*
+[[PDF]](https://www.dropbox.com/s/kijy8naaas7hncv/Gonzalez_Brousseau_2023.pdf?dl=0)

@@ -361,3 +361,9 @@ img { max-width: 100%; height: auto; }
   padding: 8px 12px;
   z-index: 100;
 }
+
+/* Spotify embed on the Podcasts page */
+.podcast-embed {
+  margin: 1.5rem 0;
+  iframe { display: block; border: 0; border-radius: 12px; }
+}

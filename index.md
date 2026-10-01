@@ -3,14 +3,14 @@ layout: page
 permalink: /
 title: ""
 show_title: false
-description: "Carlos Gonzalez-Regalado — Economist, lecturer, and policy researcher at Universidad UTE, Quito."
+description: "Carlos Gonzalez-Regalado — Economist and policy researcher. Director of the Economics Program at Universidad UTE, Quito."
 ---
 
-<span class="eyebrow">Economist · Lecturer · Policy researcher</span>
+<span class="eyebrow">Economist · Program Director · Policy researcher</span>
 
 # About
 
-I am a **Full-time Lecturer in the Economics Program at Universidad UTE** (Quito, Ecuador), combining university teaching with applied research on economic regulation and policy evaluation.
+I am the **Director of the Economics Program at Universidad UTE** (Quito, Ecuador), where I am also a full-time lecturer, combining program leadership, university teaching with applied research on economic regulation and policy evaluation.
 
 My work bridges academic research and policy practice: over a decade in Ecuador's public sector — at the Ministries of Labor, Foreign Affairs, and Energy, and the Superintendence of Market Power Control — followed by a PhD at Paris Dauphine-PSL advised by Prof. Eric Brousseau.
 
@@ -30,9 +30,9 @@ See the [publications page](/publications/) for a full list of working papers an
 
 ## Teaching
 
-At **Universidad UTE** I teach across the Economics and International Business undergraduate programs, as well as the MBA program. Since joining in 2024, I have taught **seven courses** spanning foundational theory, applied economics, and Latin American policy contexts — all as Lead Instructor.
+At **Universidad UTE** I teach across the Economics and International Business undergraduate programs, as well as the MBA program. Since joining in 2024, I have taught **six courses** spanning foundational theory, applied economics, and Latin American policy contexts — all as Lead Instructor.
 
-**Currently teaching (Spring 2026):**
+**Most recently taught (Spring 2026):**
 
 - *Macroeconomics* — Economics program
 - *The Ecuadorian Economy* — Economics program

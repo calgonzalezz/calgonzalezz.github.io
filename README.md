@@ -47,26 +47,22 @@ Site will be available at http://localhost:4000.
 - **CV** → `_pages/cv.md`
 - **Publications** → `_pages/publications.md`
 - **Talks** → `_pages/talks.md`
-- **Podcasts** → `_pages/podcasts.md`
+- **Podcasts** → `_pages/podcasts.md` (Spotify show embed; new episodes appear automatically)
 - **Author info & links** → `_config.yml` under `author_profile`
 - **Menu items** → `_data/navigation.yml`
 - **Colors / typography** → `assets/css/main.scss` (CSS variables at top)
 
 ## Files to upload
 
-Place these in `/files/`:
-- `cgonzalez_CV.pdf`
-- `regulatory_regimes.pdf`
-- `independence_renewables.pdf`
-- `gonzalez_brousseau_2023.pdf`
+- `/files/cgonzalez_CV.pdf` — CV linked from the CV page
+- `/assets/images/profile.jpg` — avatar (square, 600×600px or larger)
+- `/assets/images/favicon.svg` — browser tab icon
 
-Place these in `/assets/images/`:
-- `profile.jpg` (square photo, recommended 600×600px or larger)
-- `favicon.png` (32×32px)
+Working-paper PDFs are linked from Dropbox in `_pages/publications.md` and `_pages/cv.md`.
 
 ## Analytics
 
-Replace `YOUR-CODE` in `_includes/head.html` with your GoatCounter subdomain after registering at [goatcounter.com](https://www.goatcounter.com/).
+Visits are tracked with GoatCounter at https://cgonzalezr.goatcounter.com (script in `_includes/head.html`).
 
 ## License
 
