@@ -19,6 +19,10 @@ author_profile:
       url: "https://www.linkedin.com/in/carlos-gonzalez-regaladob/"
     - label: "GitHub"
       url: "https://github.com/calgonzalezz"
+    - label: "Google Scholar"
+      url: "https://scholar.google.com/citations?user=nk5TBfMAAAAJ"
+    - label: "ORCID"
+      url: "https://orcid.org/0009-0002-3313-9984"
 
 # Build settings
 markdown: kramdown
