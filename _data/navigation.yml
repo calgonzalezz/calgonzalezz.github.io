@@ -9,3 +9,15 @@ main:
     url: "/talks/"
   - title: "Podcasts"
     url: "/podcasts/"
+
+es:
+  - title: "Inicio"
+    url: "/es/"
+  - title: "CV"
+    url: "/es/cv/"
+  - title: "Investigación"
+    url: "/es/investigacion/"
+  - title: "Ponencias"
+    url: "/es/ponencias/"
+  - title: "Podcasts"
+    url: "/es/podcasts/"

@@ -1,4 +1,6 @@
 ---
+lang: en
+alt_url: "/es/ponencias/"
 layout: page
 permalink: /talks/
 title: "Talks"

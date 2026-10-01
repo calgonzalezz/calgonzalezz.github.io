@@ -4,11 +4,11 @@
     <img src="{{ profile.avatar | relative_url }}" alt="{{ profile.name }}" class="sidebar__avatar">
   {% endif %}
   <div class="sidebar__name">{{ profile.name }}</div>
-  <div class="sidebar__role">{{ profile.role }}<br>{{ profile.location }}</div>
+  <div class="sidebar__role">{% if page.lang == "es" and profile.role_es %}{{ profile.role_es }}{% else %}{{ profile.role }}{% endif %}<br>{{ profile.location }}</div>
 
   <ul class="sidebar__links">
     {% for link in profile.links %}
-      <li><a href="{{ link.url }}">{{ link.label }}</a></li>
+      <li><a href="{{ link.url }}">{% if page.lang == "es" and link.label_es %}{{ link.label_es }}{% else %}{{ link.label }}{% endif %}</a></li>
     {% endfor %}
   </ul>
 </aside>

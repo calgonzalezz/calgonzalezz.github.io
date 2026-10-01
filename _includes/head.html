@@ -10,6 +10,10 @@
 
   <link rel="icon" type="image/svg+xml" href="{{ '/assets/images/favicon.svg' | relative_url }}">
   <link rel="canonical" href="{{ page.url | absolute_url }}">
+  {% if page.alt_url %}
+  <link rel="alternate" hreflang="{% if page.lang == 'es' %}es{% else %}en{% endif %}" href="{{ page.url | absolute_url }}">
+  <link rel="alternate" hreflang="{% if page.lang == 'es' %}en{% else %}es{% endif %}" href="{{ page.alt_url | absolute_url }}">
+  {% endif %}
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
