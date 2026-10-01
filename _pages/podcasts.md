@@ -1,4 +1,6 @@
 ---
+lang: en
+alt_url: "/es/podcasts/"
 layout: page
 permalink: /podcasts/
 title: "Podcasts"

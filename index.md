@@ -1,4 +1,6 @@
 ---
+lang: en
+alt_url: "/es/"
 layout: page
 permalink: /
 title: ""
@@ -10,7 +12,7 @@ description: "Carlos Gonzalez-Regalado — Economist and policy researcher. Dire
 
 # About
 
-I am the **Director of the Economics Program at Universidad UTE** (Quito, Ecuador), where I am also a full-time lecturer, combining program leadership, university teaching with applied research on economic regulation and policy evaluation.
+I am the **Director of the Economics Program at Universidad UTE** (Quito, Ecuador), where I am also a full-time lecturer, combining program leadership and university teaching with applied research on economic regulation and policy evaluation.
 
 My work bridges academic research and policy practice: over a decade in Ecuador's public sector — at the Ministries of Labor, Foreign Affairs, and Energy, and the Superintendence of Market Power Control — followed by a PhD at Paris Dauphine-PSL advised by Prof. Eric Brousseau.
 
@@ -44,4 +46,4 @@ See the [CV](/cv/) for the full teaching record.
 
 - **Aug 2024** — Joined Universidad UTE as Full-time Lecturer in Economics.
 - **Mar 2024** — Appointed Director of Monitoring of Plans, Programs and Projects at Ecuador's Ministry of Labor.
-- **Jul 2023** — Defended PhD at Paris Dauphine-PSL.
+- **Jan 2023** — Defended PhD at Paris Dauphine-PSL.

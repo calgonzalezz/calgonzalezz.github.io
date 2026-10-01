@@ -1,4 +1,6 @@
 ---
+lang: en
+alt_url: "/es/cv/"
 layout: page
 permalink: /cv/
 title: "Curriculum Vitae"

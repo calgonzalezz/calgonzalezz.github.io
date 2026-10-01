@@ -10,10 +10,12 @@ locale: "en-US"
 author_profile:
   name: "Carlos Gonzalez-Regalado"
   role: "Director of Economics · UTE"
+  role_es: "Director de Economía · UTE"
   location: "Quito, Ecuador"
   avatar: "/assets/images/profile.jpg"
   links:
     - label: "Email"
+      label_es: "Correo"
       url: "mailto:calgonzalezz@gmail.com"
     - label: "LinkedIn"
       url: "https://www.linkedin.com/in/carlos-gonzalez-regaladob/"

@@ -4,6 +4,6 @@
     <span>·</span>
     <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
     <span>·</span>
-    <span>Built with Jekyll</span>
+    <span>{% if page.lang == "es" %}Hecho con Jekyll{% else %}Built with Jekyll{% endif %}</span>
   </div>
 </footer>

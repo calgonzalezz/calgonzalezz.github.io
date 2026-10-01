@@ -1,14 +1,27 @@
+{% if page.lang == "es" %}
+  {% assign nav = site.data.navigation.es %}
+  {% assign home_url = "/es/" %}
+{% else %}
+  {% assign nav = site.data.navigation.main %}
+  {% assign home_url = "/" %}
+{% endif %}
 <header class="site-header">
   <div class="site-header__inner">
-    <a class="site-header__brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+    <a class="site-header__brand" href="{{ home_url | relative_url }}">{{ site.title }}</a>
     <nav class="site-nav" aria-label="Main">
-      {% for item in site.data.navigation.main %}
-        {% assign current = item.url | relative_url %}
+      {% for item in nav %}
         <a href="{{ item.url | relative_url }}"
            class="site-nav__link {% if page.url == item.url %}is-active{% endif %}">
           {{ item.title }}
         </a>
       {% endfor %}
+      {% if page.alt_url %}
+        {% if page.lang == "es" %}
+          <a href="{{ page.alt_url | relative_url }}" class="site-nav__lang" hreflang="en" lang="en" title="Read in English">EN</a>
+        {% else %}
+          <a href="{{ page.alt_url | relative_url }}" class="site-nav__lang" hreflang="es" lang="es" title="Leer en español">ES</a>
+        {% endif %}
+      {% endif %}
     </nav>
   </div>
 </header>

@@ -1,4 +1,6 @@
 ---
+lang: en
+alt_url: "/es/investigacion/"
 layout: page
 permalink: /publications/
 title: "Publications"
