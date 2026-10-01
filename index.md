@@ -46,4 +46,4 @@ See the [CV](/cv/) for the full teaching record.
 
 - **Aug 2024** — Joined Universidad UTE as Full-time Lecturer in Economics.
 - **Mar 2024** — Appointed Director of Monitoring of Plans, Programs and Projects at Ecuador's Ministry of Labor.
-- **Jul 2023** — Defended PhD at Paris Dauphine-PSL.
+- **Jan 2023** — Defended PhD at Paris Dauphine-PSL.
