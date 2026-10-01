@@ -3,12 +3,12 @@ layout: page
 permalink: /podcasts/
 title: "Podcasts"
 author_profile: false
-description: "El Pibcast, a podcast by UTE con Voz, Universidad UTE."
+description: "El Pibcast, a podcast on economics for a general audience by UTE con Voz, Universidad UTE. Co-founded and hosted by Carlos Gonzalez-Regalado."
 ---
 
 ## El Pibcast · UTE con Voz
 
-*El Pibcast* is a Spanish-language podcast produced by **UTE con Voz**, the online radio and podcast channel of Universidad UTE (Quito, Ecuador).
+I am the co-founder and host of ***El Pibcast***, a Spanish-language podcast that brings economics to a general audience. It is produced by **UTE con Voz**, the online radio and podcast channel of Universidad UTE (Quito, Ecuador).
 
 <div class="podcast-embed">
   <iframe title="El Pibcast on Spotify"
