@@ -26,6 +26,14 @@ author_profile:
     - label: "ORCID"
       url: "https://orcid.org/0009-0002-3313-9984"
 
+# Analytics and search
+# Google Analytics 4 measurement ID (e.g. "G-XXXXXXXXXX"); empty = GA4 off.
+google_analytics_id: ""
+# Search Console: uncomment and paste only the content="..." value of the
+# HTML-tag verification.
+# webmaster_verifications:
+#   google: ""
+
 # Build settings
 markdown: kramdown
 permalink: pretty
