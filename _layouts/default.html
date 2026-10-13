@@ -10,5 +10,17 @@
 
   {% include footer.html %}
   {% include consent.html %}
+  <script>
+    document.querySelectorAll('.cite__copy').forEach(function (btn) {
+      btn.addEventListener('click', function () {
+        var text = btn.parentNode.querySelector('.cite__bib').textContent;
+        var label = btn.textContent;
+        navigator.clipboard.writeText(text).then(function () {
+          btn.textContent = btn.getAttribute('data-done');
+          setTimeout(function () { btn.textContent = label; }, 1500);
+        });
+      });
+    });
+  </script>
 </body>
 </html>

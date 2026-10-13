@@ -420,3 +420,44 @@ img { max-width: 100%; height: auto; }
 }
 .consent__btn--primary { background: var(--accent); border-color: var(--accent); color: #fff; }
 .consent__btn:hover { border-color: var(--accent); }
+
+/* "Cite" (BibTeX) blocks on the research pages */
+.cite { margin: 0.4em 0 1.6em; font-family: "Inter", -apple-system, sans-serif; font-size: 13px; }
+.cite summary { cursor: pointer; color: var(--accent); width: max-content; }
+.cite__bib {
+  margin: 8px 0;
+  padding: 12px;
+  background: var(--accent-soft);
+  border-radius: 6px;
+  font-size: 12px;
+  line-height: 1.5;
+  overflow-x: auto;
+  white-space: pre;
+}
+.cite__copy, .btn-print {
+  font: inherit;
+  font-family: "Inter", -apple-system, sans-serif;
+  font-size: 13px;
+  padding: 4px 10px;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  background: transparent;
+  color: var(--text);
+  cursor: pointer;
+}
+.cite__copy:hover, .btn-print:hover { border-color: var(--accent); }
+
+/* Print: the CV page doubles as an always-current PDF */
+.print-only { display: none; }
+@media print {
+  @page { margin: 16mm 18mm; }
+  body { background: #fff; color: #000; font-size: 10.5pt; }
+  .site-header, .site-footer, .sidebar, .consent, .no-print, .cite { display: none !important; }
+  .print-only { display: block; }
+  .site-main, .page-wrap, .page-content { max-width: none; margin: 0; padding: 0; display: block; }
+  a { color: inherit; border-bottom: none; text-decoration: none; }
+  h1 { font-size: 20pt; margin-bottom: 4pt; }
+  h2 { font-size: 13pt; margin-top: 14pt; break-after: avoid; }
+  h3 { break-after: avoid; }
+  table, tr, li { break-inside: avoid; }
+}

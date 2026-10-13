@@ -20,6 +20,14 @@ Aplica algoritmos de procesamiento de lenguaje natural a las encuestas de Regula
 
 [[PDF]](https://www.dropbox.com/s/t86cl083n02idc0/221017_Regulatory_regimes_2.pdf?dl=0)
 
+<details class="cite"><summary>Citar (BibTeX)</summary><pre class="cite__bib">@unpublished{gonzalezregalado2023measuring,
+  author = {Gonzalez-Regalado, Carlos},
+  title  = {Measuring market regulation in the {OECD} countries: A cross-country analysis},
+  note   = {PhD thesis chapter, Universit\&#x27;e Paris Dauphine-PSL},
+  year   = {2023},
+  url    = {https://www.dropbox.com/s/t86cl083n02idc0/221017_Regulatory_regimes_2.pdf?dl=0}
+}</pre><button type="button" class="cite__copy" data-done="Copiado">Copiar</button></details>
+
 ### Impact of regulatory governance regimes on renewable energies
 *Gonzalez-Regalado, C., Brousseau, E., & Cebreros, D. (2022). Working Paper de la Cátedra Gobernanza y Regulación.*
 
@@ -27,9 +35,27 @@ Análisis empírico de las agencias reguladoras nacionales europeas (2013–2018
 
 [[PDF]](https://www.dropbox.com/s/fg4i5tauajauyr7/2022-06-20_IndependenceandRenewables%20_update.pdf?dl=0)
 
+<details class="cite"><summary>Citar (BibTeX)</summary><pre class="cite__bib">@techreport{gonzalezregalado2022impact,
+  author      = {Gonzalez-Regalado, Carlos and Brousseau, Eric and Cebreros, Diego},
+  title       = {Impact of regulatory governance regimes on renewable energies: An empirical analysis of {European} National Regulatory Agencies from 2013 to 2018},
+  institution = {Governance and Regulation Chair, Universit\&#x27;e Paris Dauphine-PSL},
+  type        = {Working Paper},
+  year        = {2022},
+  url         = {https://www.dropbox.com/s/fg4i5tauajauyr7/2022-06-20_IndependenceandRenewables%20_update.pdf?dl=0}
+}</pre><button type="button" class="cite__copy" data-done="Copiado">Copiar</button></details>
+
 ### Comparative analysis of regulatory governance regimes in the OECD
 *Gonzalez-Regalado, C., & Brousseau, E. (2021). Working Paper de la Cátedra Gobernanza y Regulación.*
 
 Método de análisis de texto para medir la adopción del modelo de agencia reguladora independiente en 24 países de la OCDE entre 2013 y 2018. Citado en el [OECD Regulatory Policy Outlook 2021](https://www.oecd.org/publications/oecd-regulatory-policy-outlook-2021-38b0fdb1-en.htm).
 
 [[PDF]](https://www.dropbox.com/s/kijy8naaas7hncv/Gonzalez_Brousseau_2023.pdf?dl=0)
+
+<details class="cite"><summary>Citar (BibTeX)</summary><pre class="cite__bib">@techreport{gonzalezregalado2021comparative,
+  author      = {Gonzalez-Regalado, Carlos and Brousseau, Eric},
+  title       = {Comparative analysis of regulatory governance regimes in the {OECD}},
+  institution = {Governance and Regulation Chair, Universit\&#x27;e Paris Dauphine-PSL},
+  type        = {Working Paper},
+  year        = {2021},
+  url         = {https://www.dropbox.com/s/kijy8naaas7hncv/Gonzalez_Brousseau_2023.pdf?dl=0}
+}</pre><button type="button" class="cite__copy" data-done="Copiado">Copiar</button></details>

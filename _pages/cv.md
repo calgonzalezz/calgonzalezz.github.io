@@ -8,7 +8,9 @@ author_profile: false
 description: "Carlos Gonzalez-Regalado — Curriculum Vitae"
 ---
 
-[📄 Download as PDF](/files/cgonzalez_CV.pdf) · [Google Scholar](https://scholar.google.com/citations?user=nk5TBfMAAAAJ) · [ORCID: 0009-0002-3313-9984](https://orcid.org/0009-0002-3313-9984)
+<p class="cv-actions no-print"><button type="button" class="btn-print" onclick="window.print()">📄 Save as PDF / Print</button> · <a href="https://scholar.google.com/citations?user=nk5TBfMAAAAJ">Google Scholar</a> · <a href="https://orcid.org/0009-0002-3313-9984">ORCID: 0009-0002-3313-9984</a></p>
+
+<p class="print-only"><strong>Carlos Gonzalez-Regalado</strong> · calgonzalezz@gmail.com · calgonzalezz.github.io · ORCID 0009-0002-3313-9984</p>
 
 ## Current position
 
@@ -96,7 +98,6 @@ Over a decade of applied policy experience in Ecuador before and alongside gradu
 | Aug 2009 – Aug 2012 | Senior International Trade Analyst | Vice-Ministry of Trade and Integration |
 | Jun 2007 – Jul 2009 | Statistical Data Analyst | Ministry of Energy |
 
-*Details available in the [PDF version of the CV](/files/cgonzalez_CV.pdf).*
 
 ## Skills
 

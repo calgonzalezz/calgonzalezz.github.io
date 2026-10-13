@@ -2,8 +2,6 @@
   <div class="site-footer__inner">
     <span>© {{ 'now' | date: '%Y' }} {{ site.author }}</span>
     <span>·</span>
-    <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
-    <span>·</span>
     <span>{% if page.lang == "es" %}Hecho con Jekyll{% else %}Built with Jekyll{% endif %}</span>
   </div>
 </footer>

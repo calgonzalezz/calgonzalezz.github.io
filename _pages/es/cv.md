@@ -9,7 +9,9 @@ locale: es_EC
 description: "Carlos Gonzalez-Regalado — Currículum"
 ---
 
-[📄 Descargar en PDF](/files/cgonzalez_CV.pdf) (en inglés, versión 2023) · [Google Scholar](https://scholar.google.com/citations?user=nk5TBfMAAAAJ) · [ORCID: 0009-0002-3313-9984](https://orcid.org/0009-0002-3313-9984)
+<p class="cv-actions no-print"><button type="button" class="btn-print" onclick="window.print()">📄 Guardar como PDF / Imprimir</button> · <a href="https://scholar.google.com/citations?user=nk5TBfMAAAAJ">Google Scholar</a> · <a href="https://orcid.org/0009-0002-3313-9984">ORCID: 0009-0002-3313-9984</a></p>
+
+<p class="print-only"><strong>Carlos Gonzalez-Regalado</strong> · calgonzalezz@gmail.com · calgonzalezz.github.io · ORCID 0009-0002-3313-9984</p>
 
 ## Cargo actual
 
@@ -99,7 +101,6 @@ Más de una década de experiencia en política pública en Ecuador, antes y dur
 | ago 2009 – ago 2012 | Analista Senior de Comercio Internacional | Viceministerio de Comercio e Integración |
 | jun 2007 – jul 2009 | Analista de Datos Estadísticos | Ministerio de Energía |
 
-*Más detalles en la [versión PDF del CV](/files/cgonzalez_CV.pdf).*
 
 ## Habilidades
 

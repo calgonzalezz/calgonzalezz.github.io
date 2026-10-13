@@ -10,7 +10,7 @@ Live at: https://calgonzalezz.github.io
 - Jekyll 4 (custom theme, no external dependencies on AcademicPages or Minimal Mistakes)
 - Source Serif Pro + Inter (Google Fonts)
 - GoatCounter for privacy-friendly analytics
-- Plugins: jekyll-feed, jekyll-seo-tag, jekyll-sitemap
+- Plugins: jekyll-seo-tag, jekyll-sitemap
 
 ## Structure
 
@@ -54,7 +54,7 @@ Site will be available at http://localhost:4000.
 
 ## Files to upload
 
-- `/files/cgonzalez_CV.pdf` — CV linked from the CV page
+- CV as PDF: the CV page has a "Save as PDF / Print" button with a print stylesheet, so the PDF is always current. `/files/cgonzalez_CV.pdf` (2023) is no longer linked.
 - `/assets/images/profile.jpg` — avatar (square, 600×600px or larger)
 - `/assets/images/favicon.svg` — browser tab icon
 
