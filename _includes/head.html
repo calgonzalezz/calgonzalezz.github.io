@@ -22,6 +22,23 @@
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | absolute_url }}">
 
+  {% if site.google_analytics_id and site.google_analytics_id != "" %}
+  <!-- Google Analytics 4 with Consent Mode: no analytics cookies until the visitor accepts -->
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    var gaConsent = null;
+    try { gaConsent = localStorage.getItem('ga-consent'); } catch (e) {}
+    gtag('consent', 'default', {
+      analytics_storage: gaConsent === 'granted' ? 'granted' : 'denied',
+      ad_storage: 'denied', ad_user_data: 'denied', ad_personalization: 'denied'
+    });
+    gtag('js', new Date());
+    gtag('config', '{{ site.google_analytics_id }}');
+  </script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics_id }}"></script>
+  {% endif %}
+
   <!-- GoatCounter analytics -->
   <script data-goatcounter="https://cgonzalezr.goatcounter.com/count"
           async src="//gc.zgo.at/count.js"></script>

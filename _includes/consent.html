@@ -1,0 +1,30 @@
+{% if site.google_analytics_id and site.google_analytics_id != "" %}
+<div class="consent" id="consent" role="region" aria-label="{% if page.lang == 'es' %}Aviso de cookies{% else %}Cookie notice{% endif %}" hidden>
+  <p class="consent__text">
+    {% if page.lang == "es" %}
+      Uso Google Analytics para saber cómo se usa este sitio. ¿Aceptas sus cookies de medición?
+    {% else %}
+      I use Google Analytics to understand how this site is used. Do you accept its measurement cookies?
+    {% endif %}
+  </p>
+  <div class="consent__actions">
+    <button type="button" class="consent__btn" data-consent="denied">{% if page.lang == "es" %}Rechazar{% else %}Decline{% endif %}</button>
+    <button type="button" class="consent__btn consent__btn--primary" data-consent="granted">{% if page.lang == "es" %}Aceptar{% else %}Accept{% endif %}</button>
+  </div>
+</div>
+<script>
+  (function () {
+    var box = document.getElementById('consent');
+    var saved = null;
+    try { saved = localStorage.getItem('ga-consent'); } catch (e) {}
+    if (!saved) box.hidden = false;
+    box.addEventListener('click', function (e) {
+      var choice = e.target.getAttribute('data-consent');
+      if (!choice) return;
+      try { localStorage.setItem('ga-consent', choice); } catch (e) {}
+      if (choice === 'granted') gtag('consent', 'update', { analytics_storage: 'granted' });
+      box.hidden = true;
+    });
+  })();
+</script>
+{% endif %}
