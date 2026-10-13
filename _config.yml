@@ -36,6 +36,9 @@ google_analytics_id: "G-2NYQVYSHHF"
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: true   # single line breaks in Markdown become <br> (CV entries rely on this)
 permalink: pretty
 paginate: 5
 paginate_path: "/page:num/"
@@ -49,6 +52,10 @@ exclude:
   - Gemfile.lock
   - vendor
 
+# Link previews (WhatsApp, LinkedIn, X): large image card
+twitter:
+  card: summary_large_image
+
 # Defaults
 defaults:
   - scope:
@@ -57,9 +64,13 @@ defaults:
     values:
       layout: "page"
       author_profile: true
+      image: /assets/images/og-card-en.png
+  - scope:
+      path: "_pages/es"
+    values:
+      image: /assets/images/og-card-es.png
 
 # Plugins
 plugins:
-  - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
