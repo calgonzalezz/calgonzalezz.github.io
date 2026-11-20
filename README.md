@@ -54,7 +54,7 @@ Site will be available at http://localhost:4000.
 
 ## Files to upload
 
-- CV as PDF: the CV page has a "Save as PDF / Print" button with a print stylesheet, so the PDF is always current. `/files/cgonzalez_CV.pdf` (2023) is no longer linked.
+- `/files/cgonzalez_CV.pdf` — CV PDF, compiled from the LaTeX source in `calgonzalezz/CV-CGONZALEZ-Long`; the CV pages also have a "Print this page" button with a print stylesheet.
 - `/assets/images/profile.jpg` — avatar (square, 600×600px or larger)
 - `/assets/images/favicon.svg` — browser tab icon
 

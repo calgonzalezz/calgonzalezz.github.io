@@ -8,7 +8,7 @@ author_profile: false
 description: "Carlos Gonzalez-Regalado — Curriculum Vitae"
 ---
 
-<p class="cv-actions no-print"><button type="button" class="btn-print" onclick="window.print()">📄 Save as PDF / Print</button> · <a href="https://scholar.google.com/citations?user=nk5TBfMAAAAJ">Google Scholar</a> · <a href="https://orcid.org/0009-0002-3313-9984">ORCID: 0009-0002-3313-9984</a></p>
+<p class="cv-actions no-print"><a href="/files/cgonzalez_CV.pdf">📄 Download PDF</a> · <button type="button" class="btn-print" onclick="window.print()">Print this page</button> · <a href="https://scholar.google.com/citations?user=nk5TBfMAAAAJ">Google Scholar</a> · <a href="https://orcid.org/0009-0002-3313-9984">ORCID: 0009-0002-3313-9984</a></p>
 
 <p class="print-only"><strong>Carlos Gonzalez-Regalado</strong> · calgonzalezz@gmail.com · calgonzalezz.github.io · ORCID 0009-0002-3313-9984</p>
 

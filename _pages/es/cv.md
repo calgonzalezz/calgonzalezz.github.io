@@ -9,7 +9,7 @@ locale: es_EC
 description: "Carlos Gonzalez-Regalado — Currículum"
 ---
 
-<p class="cv-actions no-print"><button type="button" class="btn-print" onclick="window.print()">📄 Guardar como PDF / Imprimir</button> · <a href="https://scholar.google.com/citations?user=nk5TBfMAAAAJ">Google Scholar</a> · <a href="https://orcid.org/0009-0002-3313-9984">ORCID: 0009-0002-3313-9984</a></p>
+<p class="cv-actions no-print"><a href="/files/cgonzalez_CV.pdf">📄 Descargar PDF</a> (en inglés) · <button type="button" class="btn-print" onclick="window.print()">Imprimir esta página</button> · <a href="https://scholar.google.com/citations?user=nk5TBfMAAAAJ">Google Scholar</a> · <a href="https://orcid.org/0009-0002-3313-9984">ORCID: 0009-0002-3313-9984</a></p>
 
 <p class="print-only"><strong>Carlos Gonzalez-Regalado</strong> · calgonzalezz@gmail.com · calgonzalezz.github.io · ORCID 0009-0002-3313-9984</p>
 
