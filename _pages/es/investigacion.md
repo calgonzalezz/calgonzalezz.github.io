@@ -9,7 +9,14 @@ locale: es_EC
 description: "Working papers sobre regulación económica y gobernanza de agencias reguladoras."
 ---
 
-Los papers están en inglés; los resúmenes, en español.
+Los working papers están en inglés; los resúmenes, en español.
+
+## Trabajo en curso
+
+### ¿Se puede medir la brecha entre declarar vs verificar información presupuestaria? Evidencia de 70 países
+*Gonzalez-Regalado, C. (2026). Póster, XIII Congreso Internacional de Investigación REDU, Universidad UTE, Quito.*
+
+Un gobierno rinde cuentas ante dos públicos: los votantes y los organismos que lo fiscalizan. Con los datos pregunta por pregunta del Open Budget Survey para los 70 países que publican su proyecto de presupuesto y su informe de fin de año (2021 y 2023), mido por separado lo que los gobiernos declaran al presentar el presupuesto y lo que verifican al cierre del año. Verifican cerca de la mitad de lo que declaran (29,6 frente a 55,6 en una escala de 0 a 100 en 2023), y la brecha es un rasgo estable de cada país más que una tendencia. Una democracia electoral más fuerte se asocia con publicar los documentos, no con su contenido; los sistemas presidenciales verifican más.
 
 ## Working papers
 
