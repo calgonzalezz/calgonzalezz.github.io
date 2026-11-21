@@ -8,6 +8,13 @@ author_profile: false
 description: "Working papers and ongoing research."
 ---
 
+## Work in progress
+
+### ¿Se puede medir la brecha entre declarar vs verificar información presupuestaria? Evidencia de 70 países
+*Gonzalez-Regalado, C. (2026). Poster, XIII REDU International Research Congress, Universidad UTE, Quito. In Spanish.*
+
+Governments are accountable to two audiences: voters and oversight bodies. Using question-level data from the Open Budget Survey for the 70 countries that publish both their budget proposal and their year-end report (2021 and 2023), I measure separately what governments declare when they present the budget and what they verify at year end. They verify about half of what they declare (29.6 vs 55.6 on a 0–100 scale in 2023), and the gap is a stable country trait rather than a trend. Stronger electoral democracy goes with publishing the documents but not with what they contain, while presidential systems verify more.
+
 ## Working papers
 
 ### Measuring market regulation in the OECD countries: A cross-country analysis

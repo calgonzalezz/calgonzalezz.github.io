@@ -22,11 +22,12 @@ My work bridges academic research and policy practice: over a decade in Ecuador'
   <li>NLP for policy</li>
   <li>Causal inference</li>
   <li>Energy &amp; trade policy</li>
+  <li>Budget transparency</li>
 </ul>
 
 ## Research
 
-I study **economic regulation** and the **governance of network industries** (energy, telecoms, transport), with a methodological focus on **natural language processing** and **causal inference** applied to policy data. My PhD dissertation developed NLP-based metrics to evaluate regulatory reforms across European network industries.
+I study **economic regulation** and the **governance of network industries** (energy, telecoms, transport), with a methodological focus on **natural language processing** and **causal inference** applied to policy data. My PhD dissertation developed NLP-based metrics to evaluate regulatory reforms across European network industries. My current work extends this to **budget transparency and accountability**, measuring the gap between what governments declare in their budgets and what they verify, across 70 countries.
 
 See the [publications page](/publications/) for a full list of working papers and ongoing projects.
 

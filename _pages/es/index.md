@@ -23,11 +23,12 @@ Mi trabajo une la investigación académica y la práctica de la política públ
   <li>PLN para políticas públicas</li>
   <li>Inferencia causal</li>
   <li>Política energética y comercial</li>
+  <li>Transparencia presupuestaria</li>
 </ul>
 
 ## Investigación
 
-Estudio la **regulación económica** y la **gobernanza de las industrias de red** (energía, telecomunicaciones, transporte), con un enfoque metodológico en el **procesamiento de lenguaje natural** y la **inferencia causal** aplicados a datos de política pública. Mi tesis doctoral desarrolló métricas basadas en PLN para evaluar las reformas regulatorias en las industrias de red europeas.
+Estudio la **regulación económica** y la **gobernanza de las industrias de red** (energía, telecomunicaciones, transporte), con un enfoque metodológico en el **procesamiento de lenguaje natural** y la **inferencia causal** aplicados a datos de política pública. Mi tesis doctoral desarrolló métricas basadas en PLN para evaluar las reformas regulatorias en las industrias de red europeas. Mi trabajo actual lleva esta línea a la **transparencia presupuestaria y la rendición de cuentas**: mido la brecha entre lo que los gobiernos declaran en su presupuesto y lo que verifican, en 70 países.
 
 Mis working papers, con resumen y enlace al texto completo, están en la página de [investigación](/es/investigacion/). Los papers están en inglés.
 
