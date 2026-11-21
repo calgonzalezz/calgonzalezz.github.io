@@ -49,6 +49,7 @@ Soy cofundador y conductor de ***El Pibcast***, un podcast de divulgación econ�
 
 ## Novedades
 
-- **Ago 2024** — Me incorporé a la Universidad UTE como profesor de Economía a tiempo completo.
+- **Nov 2026** — Presenté el póster *«¿Se puede medir la brecha entre declarar vs verificar información presupuestaria? Evidencia de 70 países»* en el XIII Congreso Internacional de Investigación REDU, Quito.
+- **Ago 2024** — Me incorporé a la Universidad UTE como Director de la carrera de Economía y profesor a tiempo completo.
 - **Mar 2024** — Designado Director de Seguimiento de Planes, Programas y Proyectos del Ministerio del Trabajo.
 - **Ene 2023** — Defensa de la tesis doctoral en Paris Dauphine-PSL.

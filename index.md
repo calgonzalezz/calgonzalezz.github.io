@@ -44,6 +44,7 @@ See the [CV](/cv/) for the full teaching record.
 
 ## News
 
-- **Aug 2024** — Joined Universidad UTE as Full-time Lecturer in Economics.
+- **Nov 2026** — Presented the poster *"¿Se puede medir la brecha entre declarar vs verificar información presupuestaria? Evidencia de 70 países"* at the XIII REDU International Research Congress, Quito.
+- **Aug 2024** — Joined Universidad UTE as Director of the Economics Program and full-time lecturer.
 - **Mar 2024** — Appointed Director of Monitoring of Plans, Programs and Projects at Ecuador's Ministry of Labor.
 - **Jan 2023** — Defended PhD at Paris Dauphine-PSL.

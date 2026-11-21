@@ -16,7 +16,7 @@ description: "Carlos Gonzalez-Regalado — Currículum"
 ## Cargo actual
 
 **Director de la carrera de Economía**
-Universidad UTE — Quito, Ecuador
+Universidad UTE — Quito, Ecuador · *agosto 2024 – presente*
 
 **Profesor ocasional a tiempo completo, carrera de Economía**
 Universidad UTE — Quito, Ecuador · *agosto 2024 – presente*
@@ -51,6 +51,7 @@ Los papers están en inglés.
 
 | Año | Evento | Lugar | Paper |
 |-----|--------|-------|-------|
+| 2026 | XIII Congreso Internacional de Investigación REDU (póster) | Universidad UTE, Quito, Ecuador | *¿Se puede medir la brecha entre declarar vs verificar información presupuestaria? Evidencia de 70 países* |
 | 2022 | Congreso SIOE | Universidad de Toronto, Canadá | *Impact of regulatory governance regimes on renewable energies* |
 | 2021 | F-AEE Winter Workshop | Universidad Grenoble-Alpes, Francia | *Impact of regulatory governance regimes on renewable energies* |
 | 2021 | Congreso SIOE | En línea | *Comparative analysis of regulatory governance regimes in the OECD* |
