@@ -36,11 +36,9 @@ Mis working papers, con resumen y enlace al texto completo, están en la página
 
 En la **Universidad UTE** enseño en las carreras de Economía y Negocios Internacionales, y en el MBA. Desde 2024 he dictado **seis materias**, de teoría básica a economía aplicada y política pública latinoamericana, todas como profesor responsable.
 
-**Materias del semestre más reciente (primer semestre 2026):**
+**Este semestre (segundo semestre 2026):**
 
-- *Macroeconomía* — carrera de Economía
-- *Economía Ecuatoriana* — carrera de Economía
-- *Economía Social y Solidaria* — carrera de Negocios Internacionales
+- *Microeconomía* — carrera de Negocios Internacionales
 
 El historial completo de docencia está en el [CV](/es/cv/).
 
