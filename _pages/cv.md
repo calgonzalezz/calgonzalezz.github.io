@@ -62,7 +62,7 @@ All courses taught as Lead Instructor at Universidad UTE, Quito.
 | Course | Program | Semesters taught |
 |--------|---------|------------------|
 | Social and Solidarity Economics | International Business | Fall 2024 · Spring 2025 · Fall 2025 · Spring 2026 |
-| Microeconomics | International Business | Fall 2024 · Spring 2025 · Fall 2025 |
+| Microeconomics | International Business | Fall 2024 · Spring 2025 · Fall 2025 · Fall 2026 |
 | Introduction to Economics | Economics | Fall 2024 · Fall 2025 |
 | Macroeconomics | Economics | Spring 2026 |
 | The Ecuadorian Economy | Economics | Spring 2026 |

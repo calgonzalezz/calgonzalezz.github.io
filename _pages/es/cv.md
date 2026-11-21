@@ -65,7 +65,7 @@ Todas las materias dictadas como profesor responsable en la Universidad UTE, Qui
 | Materia | Carrera | Semestres |
 |---------|---------|-----------|
 | Economía Social y Solidaria | Negocios Internacionales | 2.º sem. 2024 · 1.º sem. 2025 · 2.º sem. 2025 · 1.º sem. 2026 |
-| Microeconomía | Negocios Internacionales | 2.º sem. 2024 · 1.º sem. 2025 · 2.º sem. 2025 |
+| Microeconomía | Negocios Internacionales | 2.º sem. 2024 · 1.º sem. 2025 · 2.º sem. 2025 · 2.º sem. 2026 |
 | Introducción a la Economía | Economía | 2.º sem. 2024 · 2.º sem. 2025 |
 | Macroeconomía | Economía | 1.º sem. 2026 |
 | Economía Ecuatoriana | Economía | 1.º sem. 2026 |

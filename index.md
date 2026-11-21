@@ -35,11 +35,9 @@ See the [publications page](/publications/) for a full list of working papers an
 
 At **Universidad UTE** I teach across the Economics and International Business undergraduate programs, as well as the MBA program. Since joining in 2024, I have taught **six courses** spanning foundational theory, applied economics, and Latin American policy contexts — all as Lead Instructor.
 
-**Most recently taught (Spring 2026):**
+**Currently teaching (Fall 2026):**
 
-- *Macroeconomics* — Economics program
-- *The Ecuadorian Economy* — Economics program
-- *Social and Solidarity Economics* — International Business program
+- *Microeconomics* — International Business program
 
 See the [CV](/cv/) for the full teaching record.
 
