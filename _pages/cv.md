@@ -48,6 +48,7 @@ Pontificia Universidad Católica del Ecuador (PUCE), Quito · *2011*
 
 | Year | Event | Location | Paper |
 |------|-------|----------|-------|
+| 2026 | XIII REDU International Research Congress (poster) | Universidad UTE, Quito, Ecuador | *¿Se puede medir la brecha entre declarar vs verificar información presupuestaria? Evidencia de 70 países* |
 | 2022 | SIOE Conference | University of Toronto, Canada | *Impact of regulatory governance regimes on renewable energies* |
 | 2021 | F-AEE Winter Workshop | University of Grenoble-Alpes, France | *Impact of regulatory governance regimes on renewable energies* |
 | 2021 | SIOE Conference | Online | *Comparative analysis of regulatory governance regimes in the OECD* |
