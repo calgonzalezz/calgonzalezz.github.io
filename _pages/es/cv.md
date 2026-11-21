@@ -16,7 +16,7 @@ description: "Carlos Gonzalez-Regalado — Currículum"
 ## Cargo actual
 
 **Director de la carrera de Economía**
-Universidad UTE — Quito, Ecuador
+Universidad UTE — Quito, Ecuador · *agosto 2024 – presente*
 
 **Profesor ocasional a tiempo completo, carrera de Economía**
 Universidad UTE — Quito, Ecuador · *agosto 2024 – presente*

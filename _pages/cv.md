@@ -15,7 +15,7 @@ description: "Carlos Gonzalez-Regalado — Curriculum Vitae"
 ## Current position
 
 **Director, Economics Program**
-Universidad UTE — Quito, Ecuador
+Universidad UTE — Quito, Ecuador · *August 2024 – present*
 
 **Full-time Lecturer (Profesor Ocasional), Economics Program**
 Universidad UTE — Quito, Ecuador · *August 2024 – present*
